@@ -1,4 +1,4 @@
-package com.example.kotlinbooleanpractice
+/*package com.example.kotlinbooleanpractice
 
 fun Bool() {
  val myTrue:Boolean = true
@@ -31,3 +31,5 @@ fun inputhandling(){
   println("You are not allowed to enter")
  }
 }
+
+ */
